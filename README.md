@@ -1,4 +1,4 @@
-# flutter_app_note
+# flutter_app_note with Firebase
 
 A new Flutter project.
 
